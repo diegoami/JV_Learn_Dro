@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"com.amicabile.dropwizard"},{"l":"com.amicabile.dropwizard.api"},{"l":"com.amicabile.dropwizard.health"},{"l":"com.amicabile.dropwizard.resources"}]

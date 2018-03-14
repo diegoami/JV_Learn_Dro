@@ -1,0 +1,6 @@
+logging:
+  level: INFO
+  loggers:
+    com.amicabile.dropwizard: DEBUG
+template: Hello, %s!
+defaultName: Stranger

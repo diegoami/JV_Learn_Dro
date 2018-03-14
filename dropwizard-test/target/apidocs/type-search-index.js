@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.amicabile.dropwizard","l":"DropwizardApplication"},{"p":"com.amicabile.dropwizard","l":"DropwizardConfiguration"},{"p":"com.amicabile.dropwizard.resources","l":"HelloWorldResource"},{"p":"com.amicabile.dropwizard.api","l":"Saying"}]

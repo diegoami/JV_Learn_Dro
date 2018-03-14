@@ -1,0 +1,4 @@
+com.amicabile.dropwizard
+com.amicabile.dropwizard.api
+com.amicabile.dropwizard.health
+com.amicabile.dropwizard.resources
